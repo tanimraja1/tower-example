@@ -8,5 +8,5 @@
     docker_image:
       force_absent: yes
       state: absent
-      name: 192.168.218.130:80/smapp/smappimage
+      name: 192.168.218.130:80/pepapp/pepappimage
       tag: latest
