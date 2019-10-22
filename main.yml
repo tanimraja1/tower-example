@@ -1,5 +1,5 @@
 ---
-- name: KABOOM!
+- name: TERMINAOR!
   hosts: all
  
   tasks:
