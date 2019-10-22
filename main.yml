@@ -6,6 +6,6 @@
 
   - name: Remove image
     docker_image:
-      state: force_absent
+      force_absent: yes
       name: 192.168.218.130:80/portalapp/portalappimage
       tag: latest
